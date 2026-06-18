@@ -18,3 +18,5 @@ __pycache__/
 announce-*.png
 changelog-*.png
 ponytail-*.gif
+/aws
+/docs
